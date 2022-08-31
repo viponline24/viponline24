@@ -1,28 +1,14 @@
 {
   "name": "viponline24",
-  "theme": "ui",
-  "version": "0.1.0",
-  "description": "https://www.facebook.com/viponline24",
+  "theme": "syntax",
+  "version": "1.30.0",
+  "description": "Pod Vape Ecig https://www.facebook.com/viponline24",
   "keywords": [
-    "pod",
-    "vape"
-    ,"ecig"
+    "vape","ecig","pod","relx"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/viponline24/viponline24.git"
-  },
+  "repository": "https://github.com/viponline24/viponline24",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  },
-  "bugs": {
-    "url": "https://github.com/viponline24/viponline24/issues"
-  },
-  "homepage": "https://github.com/viponline24/viponline24#readme",
-  "main": "index.js",
-  "scripts": {
-    "test": "exit 0"
-  },
-  "author": "viponline24"
+  }
 }
